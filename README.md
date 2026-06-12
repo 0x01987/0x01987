@@ -60,4 +60,5 @@ PowerShell • Python • VMware • Windows Server • Linux • Active Directo
 
 ![GitHub followers](https://img.shields.io/github/followers/0x01987?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=0x01987)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x01987&show_icons=true)
