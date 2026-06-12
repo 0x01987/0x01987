@@ -1,5 +1,5 @@
 ## About Me
-# 👋 Hi, I'm Dinel B.
+# 👋 Hi, There!
 
 Information Technology Specialist with extensive experience supporting mission-critical infrastructure, SCADA environments, enterprise systems, cybersecurity compliance, and operational technology within the Federal Government.
 
