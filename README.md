@@ -1,7 +1,7 @@
 ## About Me
 # 👋 Hi, I'm Dinel B.
 
-Former GS-13 Information Technology Specialist with extensive experience supporting mission-critical infrastructure, SCADA environments, enterprise systems, cybersecurity compliance, and operational technology within the Federal Government.
+Information Technology Specialist with extensive experience supporting mission-critical infrastructure, SCADA environments, enterprise systems, cybersecurity compliance, and operational technology within the Federal Government.
 
 My expertise spans enterprise infrastructure, industrial control systems, virtualization, automation, cybersecurity, data management, and emerging technologies. I enjoy building practical solutions that improve efficiency, security, and mission outcomes.
 
